@@ -72,4 +72,4 @@ This project demonstrates practical skills in **Excel, Power BI, Power Query, DA
 
 
 ##   SCREENSHOT OF THE DASHBOARD
-## 📊 Dashboard Preview
+![Dairy Goods Sales Dashboard](https://raw.githubusercontent.com/Sameepmadan/Dairy-Goods-Sales-Dashboard/main/image.png)
